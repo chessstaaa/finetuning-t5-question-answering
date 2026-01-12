@@ -80,3 +80,16 @@ Nilai F1 yang tinggi menunjukkan bahwa model mampu menangkap konteks dan menghas
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## 🗂 Full Folder Link
+https://drive.google.com/drive/folders/1g0uHrpmeat_E2EKX_J77MmML1pYiJSmP?usp=drive_link
+
+The link contains:
+1. Model folder
+2. Notebook folder
+3. Output folder
+4. Reports folder
+5. README.md
+6. requirements.txt
